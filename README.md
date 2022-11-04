@@ -17,19 +17,14 @@
   <img src="https://img.shields.io/badge/Srping-gray?logo=spring">
   <img src="https://img.shields.io/badge/Node.js-gray?logo=nodedotjs">
   <img src="https://img.shields.io/badge/Oracle DBMS-gray?logo=oracle&logoColor=red">
-  <br/>
-  
   <img src="https://img.shields.io/badge/HTML-gray?logo=html5">
   <img src="https://img.shields.io/badge/CSS-gray?logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/Javascript-gray?logo=javascript">
   <img src="https://img.shields.io/badge/React-gray?logo=react">
   <img src="https://img.shields.io/badge/JQuery-gray?logo=jquery&logoColor=blue">
-  <br/>
-  
   <img src="https://img.shields.io/badge/Axios-gray?logo=axios&logoColor=purple">
   <img src="https://img.shields.io/badge/Sass-gray?logo=sass">
-  <img src="https://img.shields.io/badge/git-gray?logo=git">
-  
+  <img src="https://img.shields.io/badge/git-gray?logo=git"> 
 </div>
  
 
