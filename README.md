@@ -1,9 +1,6 @@
 ### Hello 🙋‍♂️
-<a href="https://www.instagram.com/y0.0ns/">
-  <img src="https://img.shields.io/badge/insta-gray?style=flat&logo=instagram&logoColor=white">
-</a>
 <br/>
-<br/>
+
 
 
 >* 충북대학교 토목공학과 졸업
@@ -26,9 +23,16 @@
   <img src="https://img.shields.io/badge/Sass-gray?logo=sass">
   <img src="https://img.shields.io/badge/git-gray?logo=git"> 
 </div>
- 
 
+<br/>
 
+### 📫 How to reach me:
+
+- <a href="https://www.instagram.com/y0.0ns/">
+  <img src="https://img.shields.io/badge/insta-pink?style=flat&logo=instagram&logoColor=white"> : @y0.0ns
+</a>
+
+- <img src="https://img.shields.io/badge/email-blue?logo=maildotru"> : ysem1007@naver.com
 
 
 
